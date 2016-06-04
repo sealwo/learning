@@ -12,4 +12,32 @@ setInterval(function() {
   counter++;
   console.log(counter);
   document.write(counter);
-}, 500);
+}, 500)
+<table border="1">
+<tr>
+<td>row 1, cell 1</td>
+<td>row 1, cell 2</td>
+</tr>
+<tr>
+<td></td>
+<td>row 2, cell 2</td>
+</tr>
+</table><table border="1">
+<tr>
+<td>row 1, cell 1</td>
+<td>row 1, cell 2</td>
+</tr>
+<tr>
+<td></td>
+<td>row 2, cell 2</td>
+</tr>
+</table><table border="1">
+<tr>
+<td>row 1, cell 1</td>
+<td>row 1, cell 2</td>
+</tr>
+<tr>
+<td></td>
+<td>row 2, cell 2</td>
+</tr>
+</table>;
