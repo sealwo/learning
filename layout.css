@@ -1,0 +1,37 @@
+#layout_1 {
+  background: red;
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  height: 600px;
+  position: relative;
+}
+#layout_2 {
+  display: inline;
+  background: yellow;
+  padding: 20px 30px;
+  position: fixed;
+  top: 60px;
+  right: 10px;
+}
+#layout_3 {
+  background: blue;
+  display: inline;
+  float: right;
+  color: #fff;
+  padding: 10px;
+}
+#layout_4 {
+  position: absolute;
+  display: inline-block;
+  width: 100px;
+  height: 80px;
+  top: 50%;
+  left: 50%;
+  margin-top: -40px;
+  margin-left: -50px;
+  background: green;
+  padding: 10px;
+  color: #ff0;
+  opacity: .8;
+}
